@@ -57,15 +57,16 @@
 
 <table>
   <tr>
-    <th align="center">Email</th>
-     <th align="center">Study</th>
+    <th>Email</th>
+    <th>Study Log</th>
   </tr>
   <tr>
     <td align="center">
       <a href="mailto:gjfls123@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
       </a>
-     <td align="center">
+    </td>
+    <td align="center">
       <a href="https://www.notion.so/AWS-2025-05-07-2025-12-12-2c59af1f7fa78075b477d329723b409b">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
       </a>
